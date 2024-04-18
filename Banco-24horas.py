@@ -1,0 +1,1 @@
+print("Bem vindo ao Banco 24horas");
